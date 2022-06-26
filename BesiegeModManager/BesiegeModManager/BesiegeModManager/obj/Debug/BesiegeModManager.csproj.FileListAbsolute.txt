@@ -1,0 +1,11 @@
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\bin\Debug\BesiegeModManager.exe.config
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\bin\Debug\BesiegeModManager.exe
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\bin\Debug\BesiegeModManager.pdb
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.csproj.AssemblyReference.cache
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.csproj.SuggestedBindingRedirects.cache
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.Form1.resources
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.Properties.Resources.resources
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.csproj.GenerateResource.cache
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.csproj.CoreCompileInputs.cache
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.exe
+D:\Programing\BesiegeModManager\BesiegeModManager\BesiegeModManager\obj\Debug\BesiegeModManager.pdb
